@@ -9,4 +9,4 @@ def setup(app):
 
 @openbar.templates.render("test.html")
 def get_root():
-    return { 'test' : 42}
+    return {'test' : 42}
