@@ -29,7 +29,7 @@ CONFIGURATION = {
     'download_url':     '',
     'author_email':     'gilles@poolp.org',
     'version':          '0.1',
-    'packages':         ['openbar-tester'],
+    'packages':         ['openbar_tester'],
     'name':             'py-openbar-tester'
 }
 
